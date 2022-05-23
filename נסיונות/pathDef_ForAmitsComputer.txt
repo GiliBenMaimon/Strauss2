@@ -1,0 +1,2 @@
+mainpath=C:\Users\amitk\OneDrive - Systematics LTD\Desktop\Amit\Consults\Strauss - oats\StraussDeployment
+path4MetaDataFile=C:\Users\amitk\OneDrive - Systematics LTD\Desktop\Amit\Consults\Strauss - oats\StraussDeployment\MetaDataFile.xlsx

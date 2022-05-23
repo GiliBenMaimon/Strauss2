@@ -1,0 +1,2 @@
+mainpath=C:\Users\gilib\OneDrive - Systematics LTD\Desktop\Gili\my_projects\Shtraus\Ver02_12_21\Strauss - deployment
+path4MetaDataFile=C:\Users\gilib\OneDrive - Systematics LTD\Desktop\Gili\my_projects\Shtraus\Ver02_12_21\Strauss - deployment\MetaDataFile.xlsx
